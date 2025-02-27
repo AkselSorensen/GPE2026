@@ -76,9 +76,6 @@ gantt
 
 **Approches :**
 - **Partenariats Stratégiques :** Collaboration avec Cyclamed et autres filières de santé pour intégration harmonieuse.
-- **Marketing Digital :** Campagnes sur les réseaux sociaux et webinaires pour sensibiliser et éduquer sur les MNU.
-- **Événements & Conférences :** Participations à des salons médicaux, conférences sur la blockchain et l'IA.
-- **Programmes Pilotes :** Déploiement initial dans certaines régions pour tester et ajuster le modèle avant expansion.
 
 ### 8.3. Avantages Concurrentiels
 - **Technologie de Pointe :** Utilisation d'IA et blockchain pour une sécurité et une traçabilité optimisées.
