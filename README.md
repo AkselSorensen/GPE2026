@@ -46,7 +46,7 @@
 | **Social & Économique** | Confiance dans la chaîne de distribution (moins de contrefaçons). Participation citoyenne.|
 | **Santé Publique**   | Identification fiable des contrefaçons. Moins de risques pour les patients.             |
 
-## 6. 📅 Planning & Livrables
+## 6. 📅 Planning & Livrables (a définir WIP )
 
 ```mermaid
 gantt
@@ -142,14 +142,6 @@ gantt
 | Déploiement national         | Après tests | 12 mois     | À venir      |
 | Certification HDS            | 2024-09-01  | 2024-11-30  | Terminé      |
 | Agrément Cyclamed            | 2025-02-01  | 2025-05-31  | En cours     |
-## 7. 💸 Budget Prévisionnel
-
-| Poste               | Montant    | Référence         |
-|---------------------|------------|-------------------|
-| **R&D IA**          | 2M€        | Subvention ADEME  |
-| **Infra blockchain**| 1.5M€      | CIR à 30%         |
-| **Sécurité**        | 800k€      | Fonds FEDER       |
-| **Formation**       | 300k€      | OPCO Santé        |
 
 ## Conclusion
 Grâce à l'intégration des technologies de vision IA et blockchain, MediCycle et Recipharma modernisent la gestion des MNU en assurant une sécurité et une traçabilité optimales tout en engageant les citoyens pour une chaîne écoresponsable.
