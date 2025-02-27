@@ -53,12 +53,12 @@ gantt
   title Roadmap MediCycle
   dateFormat  YYYY-MM-DD
   section Déploiement
-  Prototype fonctionnel       :done, des1, x-x-x, x-x-x
-  Tests réglementaires        :active, des2, x-x-x, x-x-x
+  Prototype fonctionnel       :done, des1, 2025-02-27, 2025-02-27
+  Tests réglementaires        :active, des2, 2025-02-27, 2025-02-27
   Déploiement national        :         des3, after des2, 12mois
   section Conformité
-  Certification HDS           :crit, done, x-x-x, x-x-x
-  Agrément Cyclamed           :crit, active, x-x-x, x-x-x
+  Certification HDS           :crit, done, 2025-02-27,2025-02-27
+  Agrément Cyclamed           :crit, active, 2025-02-27, 2025-02-27
 ```
 ## 8. 💼 Stratégie Commerciale & Génération de Revenus
 
@@ -134,11 +134,11 @@ gantt
 
 | Phase                        | Début       | Fin         | Statut       |
 |------------------------------|-------------|-------------|--------------|
-| Prototype fonctionnel        | x-x-x  | x-x-x  | Terminé      |
-| Tests réglementaires         | x-x-x  | x-x-x  | En cours     |
+| Prototype fonctionnel        | x-x-x  | x-x-x  | À venir     |
+| Tests réglementaires         | x-x-x  | x-x-x  | À venir     |
 | Déploiement national         | Après tests | 12 mois     | À venir      |
-| Certification HDS            | x-x-x  | x-x-x  | Terminé      |
-| Agrément Cyclamed            | x-x-x  | x-x-x  | En cours     |
+| Certification HDS            | x-x-x  | x-x-x  | À venir      |
+| Agrément Cyclamed            | x-x-x  | x-x-x  | À venir     |
 
 ## Conclusion
 Grâce à l'intégration des technologies de vision IA et blockchain, MediCycle et Recipharma modernisent la gestion des MNU en assurant une sécurité et une traçabilité optimales tout en engageant les citoyens pour une chaîne écoresponsable.
